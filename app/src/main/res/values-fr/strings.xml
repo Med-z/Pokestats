@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pokestat</string>
+    <string name="pokemon_name">Entrez le nom du pokemon:</string>
+    <string name="search_button">CHERCHER</string>
+    <string name="exit_button">QUITTER</string>
+    <string name="return_but">RETOUR</string>
+    <string name="view_website">VOIR SITE WEB</string>
+    <string name="pokemon_type">"Type: "</string>
+    <string name="pokemon_size">Taille:</string>
+    <string name="pokemon_weight">Poids:</string>
+</resources>

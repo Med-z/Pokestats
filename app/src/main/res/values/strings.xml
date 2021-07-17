@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Pokestat</string>
+    <string name="pokemon_name">Enter pokemon name: </string>
+    <string name="input_pokemon" translatable="false" />
+    <string name="search_button">SEARCH</string>
+    <string name="exit_button">EXIT</string>
+    <string name="return_but">RETURN</string>
+    <string name="pokemon_name_display" translatable="false">NONE</string>
+    <string name="view_website">VIEW WEBSITE</string>
+    <string name="pokemon_type">Type:</string>
+    <string name="pokemon_size">Size:</string>
+    <string name="pokemon_weight">Weight</string>
+    <string name="display_poke_type" translatable="false">NONE</string>
+    <string name="display_poke_size" translatable="false">NONE</string>
+    <string name="display_poke_weight" translatable="false">NONE</string>
+</resources>

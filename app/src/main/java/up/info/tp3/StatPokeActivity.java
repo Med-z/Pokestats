@@ -149,25 +149,25 @@ public class StatPokeActivity extends AppCompatActivity {
 
 
     private void displayMehdiResult(){
-        displayPokemonType.setText("Guerrier Arabe");
+        displayPokemonType.setText("Le fondateur");
         displayPokemonSize.setText("1.82 m");
         displayPokemonWeight.setText("70 kg");
     }
 
     private void displayZakiResult(){
-        displayPokemonType.setText("Esclave de la famille");
+        displayPokemonType.setText("Le rejeté");
         displayPokemonSize.setText("1.73 m");
         displayPokemonWeight.setText("66 kg");
     }
 
     private void displayYacineResult(){
-        displayPokemonType.setText("Le Rebeu Inlove");
+        displayPokemonType.setText("L'égaré");
         displayPokemonSize.setText("1.76 m");
         displayPokemonWeight.setText("65 kg");
     }
 
     private void displayFadiResult(){
-        displayPokemonType.setText("Le lache à lunettes ");
+        displayPokemonType.setText("Le disparu");
         displayPokemonSize.setText("1.71 m");
         displayPokemonWeight.setText("60 kg");
     }
